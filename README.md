@@ -1,6 +1,6 @@
 # MoS2-SnS-piezoelectric-diode-for-high-performance-photodetectors
 
-Yet to be published
+Published in flatchem journal
 
 In this paper, a flexible piezoelectric photodiode was fabricated using SnS and MoS2, and its parameters were calculated.
 
